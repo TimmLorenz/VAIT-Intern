@@ -1,0 +1,62 @@
+{
+    "name": "BC",
+    "description": "Rules",
+    "generateAction": "Hidden",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "Hidden",
+            "justification": "Not working right now..."
+        },
+        {
+            "id": "AA0217",
+            "action": "Hidden",
+            "justification": "No Microsoft, bad Microsoft you don't get it!!!"
+        },
+        {
+            "id": "AD0001",
+            "action": "Hidden",
+            "justification": "not possible to solve"
+        },
+        {
+            "id": "AA0072",
+            "action": "Hidden",
+            "justification": "This is OK -> Don't need MS to dictate variable names."
+        },
+        {
+            "id": "AW0009",
+            "action": "Hidden",
+            "justification": "We're using a blob - try to stop us!"
+        },
+        {
+            "id": "AA0240",
+            "action": "Hidden",
+            "justification": "not possible to solve"
+        },
+        {
+            "id": "AA0018",
+            "action": "Error",
+            "justification": "The END, IF, REPEAT, UNTIL, FOR, WHILE, and CASE statement should always start a line."
+          },
+          {
+            "id": "AA0233",
+            "action": "Error",
+            "justification": "Use Get(), FindFirst() and FindLast() without Next() method."
+          },
+          {
+            "id": "AW0005",
+            "action": "Error",
+            "justification": "Actions should use the Image property."
+          },
+          {
+            "id": "AA0008",
+            "action": "Error",
+            "justification": "Function calls should have parenthesis even if they do not have any parameters."
+          },
+          {
+            "id": "AA0040",
+            "action": "Error",
+            "justification": "Avoid using nested WITH statements."
+          }
+    ]
+}

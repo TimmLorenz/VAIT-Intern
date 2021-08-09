@@ -1,0 +1,26 @@
+{
+  "id": "7faff2f3-23bf-4ea7-b924-7c8f6dbb23c1",
+  "name": "VAIT-Intern",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://VAIT-Intern.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
